@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Yaldevi&display=swap');
+body{
+    
+   background-image: url(double-bubble.png);
+  
+}
+.judul{
+     text-align: center;
+     font-size: 50px;
+     color: black;
+
+}
+.zia{
+  background-color: rgba(128, 128, 128, 0.473);
+    margin-left: auto;
+     margin-right: auto;
+     width: fit-content;
+font-size: 20px;
+text-align: center;
+color: black;
+font-weight: 30;
+}
+.tabel{ background-color: gray;
+    margin: auto;
+    
+font-size: 25px;  
+width: 445px;
+height: 100%;
+text-align: center;
+}
+.foto{/* padding-bottom: 30px;
+    padding-left: 20px;
+padding-right: 40px;
+padding-top:50px; */
+padding: 0px 0px 0px 400px;
+image-resolution:100px ;
+border-radius: 50%
+
+
+}
+.tabel2{
+    background-color: gray;
+  
+margin: auto;
+font-size: 25px;  
+width: 1000px;
+height: 100%;
+text-align: center;
+}
+.alif{ background-color: red;
+    
+    /* padding-bottom: 30px;
+   padding-left: 20px;
+padding-right: 40px;
+padding-top:50px; */
+padding: 30px 20px 30px 20px; 
+
+/* margin-top: 50px;
+margin-right: 40px; ;
+margin-bottom: 30px;
+margin-left: 20px; */
+margin: 50px 40px 30px 200px;
+
+border: 10px solid rgb(0, 255, 13);
+
+width: 1000px;
+height: 400px;
+font-size: 19px;
+
+
+}
+.circle{
+ text-align: center;
+   
+}
+.circle>.circle-ngabers{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+*{
+    font-family: 'Yaldevi', sans-serif;
+}
+
+
+
+.kotak{
+    background-color: rgba(0, 0, 0, 0.39);
+    /* padding-bottom: 30px;
+   padding-left: 20px;
+padding-right: 40px;
+padding-top:50px; */
+padding: 0px 0px 0px 0px; 
+    margin: auto;
+    width: 400px;
+    height: 100%;
+}
+.sosmed{
+    background-color: rgba(128, 128, 128, 0.473);
+    margin-left: auto;
+     margin-right: auto;
+     width: 300px;
+font-size: 20px;
+text-align: center;
+font-weight: 30;
+
+
+}
+.salam{
+    color:black;
+font-size: 30px;
+font-weight: 30;
+margin: auto;
+text-align: center;
+}
